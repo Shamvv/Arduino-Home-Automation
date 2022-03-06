@@ -1,2 +1,2 @@
 # Arduino-Home-Automation
-https://www.tinkercad.com/things/6fVZfWKb5Rh-basic-home-automation-system-using-arduino/editel?sharecode=uplvgYqpyKrUyFUIHBtF2Ra7yt4uImHJB2xIuQ-Nokk
+IoT project that programmes an Arduino, making it capable of controlling multiple circuit components (power sockets, fan and it's speed, opening and closing of blinds/shutters) and modify their functioning simultaneously.
